@@ -1,4 +1,4 @@
-Built an admin dashboard where only the Admin has access to users, products, and progress area chart of the shopping app and can also add new products as well as delete them as well create a new user and also user can edit their profile on it, Also there are a dark mode and light mode visuals as well.
+Built a admin dashboard where only the Admin has access to users, products, and progress area chart of the shopping app and can also add new products as well as delete them as well create a new user and also user can edit their profile on it, Also there are a dark mode and light mode visuals as well.
 
 This app was designed using, React, Material UI, ReCharts etc.
 
